@@ -27,8 +27,8 @@ TODO: Replace this with a description of the modules in this repo.
 ## Overview
 * [terraform-ibm-instana](#terraform-ibm-instana)
 * [Examples](./examples)
-    * [Advanced example](./examples/advanced)
-    * [Basic example](./examples/basic)
+    * <div style="display: inline-block;"><a href="./examples/advanced">Advanced example</a></div> <div style="display: inline-block; vertical-align: middle;"><a href="https://cloud.ibm.com/schematics/workspaces/create?workspace_name=instana-advanced-example&repository=https://github.com/terraform-ibm-modules/terraform-ibm-instana/tree/main/examples/advanced" target="_blank"><img src="https://cloud.ibm.com/media/docs/images/icons/Deploy_to_cloud.svg" alt="Deploy to IBM Cloud button"></a></div>
+    * <div style="display: inline-block;"><a href="./examples/basic">Basic example</a></div> <div style="display: inline-block; vertical-align: middle;"><a href="https://cloud.ibm.com/schematics/workspaces/create?workspace_name=instana-basic-example&repository=https://github.com/terraform-ibm-modules/terraform-ibm-instana/tree/main/examples/basic" target="_blank"><img src="https://cloud.ibm.com/media/docs/images/icons/Deploy_to_cloud.svg" alt="Deploy to IBM Cloud button"></a></div>
 * [Contributing](#contributing)
 <!-- END OVERVIEW HOOK -->
 
